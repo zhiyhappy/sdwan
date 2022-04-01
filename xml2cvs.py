@@ -65,8 +65,8 @@ def reqpathmon(apikey, host):
 
 
 
-lhost = "sdwan-br2.ethanlab.net"
-lapikey = "LUFRPT1qeFNkUUlJdURiQkJldHNtOUNnNnBweVBnT0U9RGk5OW94aWVDWCtJMHFKbVZyb1NZeVhwdjlxc0MvbCswQWdqbnpqeG1kM3BpcXUxYnRuRk1ueEptZ29MeENGbw=="
+lhost = "sdwan.demo.net"
+lapikey = "*********************************"
 
 while(True):
    reqpathmon(lapikey, lhost)
